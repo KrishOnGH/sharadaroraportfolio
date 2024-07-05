@@ -1,11 +1,9 @@
 'use client'
 import React from 'react';
 import Header from './components/header'
-import Footer from './components/footer'
 import Hero from './components/hero'
 import Gallery from './components/gallery'
-import Content from './components/content'
-import Feature from './components/feature'
+import Contact from './components/contact'
 
 const landing = () => {
     return (
@@ -13,6 +11,7 @@ const landing = () => {
             <div>
                 <Hero />
                 <Gallery />
+                <Contact />
                 <Header />
             </div>
         </main>
