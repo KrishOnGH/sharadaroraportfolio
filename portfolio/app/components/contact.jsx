@@ -102,7 +102,7 @@ const Content = () => {
                             </div>
                         </form>
                         <div className="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-                            <a href="mailto:sharad.vlsi@gmail.com" className="text-purple-500">sharad.vlsi@gmail.com</a>
+                            <a href="mailto:hi.sharad.arora@gmail.com" className="text-purple-500">hi.sharad.arora@gmail.com</a>
                         </div>
                     </div>
                 </section>
