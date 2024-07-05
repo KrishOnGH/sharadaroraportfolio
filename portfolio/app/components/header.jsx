@@ -19,7 +19,7 @@ const footer = () => {
                         </a>
                         <nav className="ml-auto flex flex-wrap items-center text-base justify-center">
                             <a href='/#hero' className="mr-8 text-gray-800 hover:text-gray-700 cursor-pointer">Home</a>
-                            <a href='/#experience.awards' className="mr-8 text-gray-800 hover:text-gray-700 cursor-pointer">Awards</a>
+                            <a href='/#awards' className="mr-8 text-gray-800 hover:text-gray-700 cursor-pointer">Awards</a>
                             <a href='/#contact' className="mr-8 text-gray-800 hover:text-gray-700 cursor-pointer">Contact</a>
                         </nav>
                     </div>
@@ -33,7 +33,7 @@ const footer = () => {
                         <div className={`${menu ? 'fixed menu' : 'hidden'} w-[60svw] items-center h-[100svh] sm:justify-center absolute right-0 top-0 bg-black z-10 flex row`}>
                             <nav className="h-[fit-content] absolute sm:relative right-8 sm:right-0 flex flex-col items-center text-base">
                                 <a href='/#hero' className="mb-8 text-gray-200 hover:text-gray-300 text-xl cursor-pointer">Home</a>
-                                <a href='/#experience.awards' className="mb-8 text-gray-200 hover:text-gray-300 text-xl cursor-pointer">Awards</a>
+                                <a href='/#awards' className="mb-8 text-gray-200 hover:text-gray-300 text-xl cursor-pointer">Awards</a>
                                 <a href='/#contact' className="mb-8 text-gray-200 hover:text-gray-300 text-xl cursor-pointer">Contact</a>
                             </nav>
                         </div>
