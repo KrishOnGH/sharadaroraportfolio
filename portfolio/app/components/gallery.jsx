@@ -32,37 +32,37 @@ const Cta = () => {
                             Jun 2021 - Sep 2023 · 2 yrs 4 mos San Jose
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2021_08_09.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2021_08_09.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2021_08_09.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2021_09_16.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2021_09_16.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2021_09_16.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2021_12_21.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2021_12_21.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2021_12_21.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2021_12_21___second.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2021_12_21___second.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2021_12_21___second.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2022_01_14.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2022_01_14.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2022_01_14.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2022_05_17.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2022_05_17.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2022_05_17.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2022_07_16.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2022_07_16.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2022_07_16.png"></Image>
                             </div>
                         </div>
@@ -73,47 +73,47 @@ const Cta = () => {
                             Oct 2016 - Jun 2021 · 4 yrs 9 mos San Jose
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2017_08_10.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2017_08_10.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2017_08_10.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2017_09_11.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2017_09_11.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2017_09_11.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2017_09_11___second.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2017_09_11___second.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2017_09_11___second.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2018_01_23.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2018_01_23.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2018_01_23.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2018_09_26.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2018_09_26.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2018_09_26.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2018_12_19.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2018_12_19.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2018_12_19.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2019_03_06.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2019_03_06.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2019_03_06.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2020_03_16.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2020_03_16.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2020_03_16.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2020_08_04.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2020_08_04.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2020_08_04.png"></Image>
                             </div>
                         </div>
@@ -124,42 +124,42 @@ const Cta = () => {
                             Apr 2014 - Oct 2016 · 2 yrs 7 mos Banglore
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2014_09_14.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2014_09_14.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2014_09_14.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2014_10_02.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2014_10_02.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2014_10_02.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2014_10_08.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2014_10_08.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2014_10_08.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2014_10_19.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2014_10_19.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2014_10_19.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2014_11_24.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2014_11_24.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2014_11_24.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2015_02_06.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2015_02_06.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2015_02_06.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2015_03_26.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2015_03_26.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2015_03_26.png"></Image>
                             </div>
                         </div>
                         <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2016_02_15.png")} className='relative w-[40%] aspect-[2.5/1]'>
+                            <div onClick={() => expandImage("/2016_02_15.png")} className='relative w-[50%] aspect-[2.5/1]'>
                                 <Image fill className='cursor-pointer' src="/2016_02_15.png"></Image>
                             </div>
                         </div>
