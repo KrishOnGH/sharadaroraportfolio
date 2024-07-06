@@ -20,7 +20,7 @@ const Cta = () => {
         <main>
             <section id="awards" className="text-gray-800 body-font bg-white pb-20 w-[100svw] border-t-2 border-black">
 
-                <div className='mt-20 text-xl md:text-2xl lg:text-3xl xl:text-4xl w-full flex justify-center'>Experience and Awards</div>
+                <div className='mt-20 text-xl md:text-2xl lg:text-3xl xl:text-4xl w-full flex justify-center'>Awards</div>
 
                 <div className='mt-20 ml-10 text-xl md:text-2xl lg:text-3xl xl:text-4xl'>
                     Cadence
@@ -210,11 +210,6 @@ const Cta = () => {
                         <div className='text-gray-600 text-sm lg:text-[1rem] xl:text-lg'>
                             Sep 2004 - Jan 2006 · 1 yrs 5 mos Bangalore
                         </div>
-                        <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2004_11_24.png")} className='relative w-[50%] border-2 border-black aspect-[2.5/1]'>
-                                <Image fill className='cursor-pointer' src="/2004_11_24.png" />
-                            </div>
-                        </div>
                     </li>
 
                     <li>
@@ -245,11 +240,6 @@ const Cta = () => {
                         <div className='ml-5 mb-5'>
                             <div onClick={() => expandImage("/2001_09_17.png")} className='relative w-[50%] border-2 border-black aspect-[1/1.2]'>
                                 <Image fill className='cursor-pointer' src="/2001_09_17.png" />
-                            </div>
-                        </div>
-                        <div className='ml-5 mb-5'>
-                            <div onClick={() => expandImage("/2001_08_27.png")} className='relative w-[50%] border-2 border-black aspect-[2.5/1]'>
-                                <Image fill className='cursor-pointer' src="/2001_08_27.png" />
                             </div>
                         </div>
                     </li>
