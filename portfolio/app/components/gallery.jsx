@@ -18,7 +18,7 @@ const Cta = () => {
 
     return (
         <main>
-            <section id="experience.awards" className="text-gray-800 body-font bg-white pb-20 w-[100svw] border-t-2 border-black">
+            <section id="awards" className="text-gray-800 body-font bg-white pb-20 w-[100svw] border-t-2 border-black">
 
                 <div className='mt-20 text-xl md:text-2xl lg:text-3xl xl:text-4xl w-full flex justify-center'>Experience and Awards</div>
 
