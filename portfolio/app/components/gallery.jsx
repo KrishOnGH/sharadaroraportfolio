@@ -32,7 +32,7 @@ const Cta = () => {
                 </div>
                 <ol className='mt-5 ml-[7.5rem] list-disc text-lg lg:text-xl xl:text-2xl'>
                     <li>
-                        Design Engineering Architect (Tech. Ladder) | DDR PHY | Led Constraints, Synthesis & STA
+                        Design Engineering Architect (Technical Ladder) | DDR PHY | Led Constraints, Synthesis & STA
                         <div className='text-gray-600 text-sm lg:text-[1rem] xl:text-lg'>
                             San Jose · Jun 2021 - Sep 2023 · 2 yrs 4 months
                         </div>
