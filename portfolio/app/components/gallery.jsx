@@ -28,13 +28,13 @@ const Cta = () => {
                 
 
                 <div className='mt-20 ml-10 text-lg md:text-xl lg:text-2xl xl:text-3xl'>
-                    Cadence Design Systems <br /> <span className='text-gray-600 text-sm md:text-lg lg:text-xl xl:text-2xl'>San Jose and Bangalore April 2014 - September 2023 (9 yrs 6 months) <br /> (Relocation to USA: October 2016) </span>
+                    Cadence Design Systems <br /> <span className='text-gray-600 text-sm md:text-lg lg:text-xl xl:text-2xl'>San Jose & Bangalore · April 2014 - September 2023 · 9 yrs 6 months<br /> Relocation to USA: October 2016 </span>
                 </div>
                 <ol className='mt-5 ml-[7.5rem] list-disc text-lg lg:text-xl xl:text-2xl'>
                     <li>
                         Design Engineering Architect (Tech. Ladder) | DDR PHY | Led Constraints, Synthesis & STA
                         <div className='text-gray-600 text-sm lg:text-[1rem] xl:text-lg'>
-                            Jun 2021 - Sep 2023 · 2 yrs 4 months San Jose
+                            San Jose · Jun 2021 - Sep 2023 · 2 yrs 4 months
                         </div>
                         <ol className='list-decimal'>
                             <li className='ml-10 mb-5'>
@@ -78,7 +78,7 @@ const Cta = () => {
                     <li>
                         Sr. Design Engineering Manager | DDR PHY | Led Timing Closure & Physical Design
                         <div className='text-gray-600 text-sm lg:text-[1rem] xl:text-lg'>
-                            Oct 2016 - Jun 2021 · 4 yrs 9 months San Jose
+                            San Jose · Oct 2016 - Jun 2021 · 4 yrs 9 months
                         </div>
                         <ol className='list-decimal' start="8">
                             <li className='ml-10 mb-5'>
@@ -132,7 +132,7 @@ const Cta = () => {
                     <li>
                         Sr. Design Engineering Manager | DDR PHY | Led Timing Closure & Physical Design
                         <div className='text-gray-600 text-sm lg:text-[1rem] xl:text-lg'>
-                            Apr 2015 - Oct 2016 · 1 yrs 7 months Bangalore
+                            Bangalore · Apr 2015 - Oct 2016 · 1 yrs 7 months
                         </div>
                         <ol className='list-decimal' start="17">
                             <li className='ml-10 mb-5'>
@@ -146,7 +146,7 @@ const Cta = () => {
                     <li>
                         Sr. Principal Design Engineer | DDR PHY | Led Timing Closure & Physical Design
                         <div className='text-gray-600 text-sm lg:text-[1rem] xl:text-lg'>
-                            Apr 2014 - Apr 2015 · 1 yr 1 mo Bangalore
+                            Bangalore · Apr 2014 - Apr 2015 · 1 yr 1 month
                         </div>
                         <ol className='list-decimal' start="18">
                             <li className='ml-10 mb-5'>
@@ -189,27 +189,27 @@ const Cta = () => {
                 </ol>
 
                 <div className='mt-20 ml-10 text-lg md:text-xl lg:text-2xl xl:text-3xl'>
-                    Texas Instruments ( TI ) <br /> <span className='text-gray-600 text-sm md:text-lg lg:text-xl xl:text-2xl'>Bangalore (India) August 1999 - April 2014 (14 yrs 9 months)</span>
+                    Texas Instruments ( TI ) <br /> <span className='text-gray-600 text-sm md:text-lg lg:text-xl xl:text-2xl'>Bangalore · August 1999 - April 2014 · 14 yrs 9 months</span>
                 </div>
                 <ol className='mt-5 ml-[7.5rem] list-disc text-lg lg:text-xl xl:text-2xl'>
                     <li>
                         Lead Engineer | Microcontroller (MCU) SoCs | Led Synthesis, Constraints, Physical Design & STA
                         <div className='text-gray-600 text-sm lg:text-[1rem] xl:text-lg'>
-                            Mar 2010 - Apr 2014 · 4 yrs 2 months Bangalore
+                            Bangalore · Mar 2010 - Apr 2014 · 4 yrs 2 months
                         </div>
                     </li>
 
                     <li>
                         Lead Engineer | Wireless (OMAP) SoCs | Led Synthesis, Constraints, Physical Design & STA
                         <div className='text-gray-600 text-sm lg:text-[1rem] xl:text-lg'>
-                            May 2008 - Mar 2010 · 1 yrs 11 months Bangalore
+                            Bangalore · May 2008 - Mar 2010 · 1 yrs 11 months
                         </div>
                     </li>
 
                     <li>
                         Lead Engineer | DSP Systems SoCs | Synthesis, Constraints, Physical Design & STA
                         <div className='text-gray-600 text-sm lg:text-[1rem] xl:text-lg'>
-                            Jan 2006 - May 2008 · 2 yrs 5 months Bangalore
+                            Bangalore · Jan 2006 - May 2008 · 2 yrs 5 months
                         </div>
                         <ol className='list-decimal' start="25">
                             <li className='ml-10 mb-5'>
@@ -223,14 +223,14 @@ const Cta = () => {
                     <li>
                         Lead Engineer | EDA/CAD/ASIC Methodology Organization
                         <div className='text-gray-600 text-sm lg:text-[1rem] xl:text-lg'>
-                            Sep 2004 - Jan 2006 · 1 yrs 5 months Bangalore
+                            Bangalore · Sep 2004 - Jan 2006 · 1 yrs 5 months
                         </div>
                     </li>
 
                     <li>
                         Sr. Design Engineer | EDA/CAD/ASIC Methodology Organization
                         <div className='text-gray-600 text-sm lg:text-[1rem] xl:text-lg'>
-                            Aug 2001 - Sep 2004 · 3 yrs 2 months Bangalore
+                            Bangalore · Aug 2001 - Sep 2004 · 3 yrs 2 months
                         </div>
                         <ol className='list-decimal' start="26">
                             <li className='ml-10 mb-5'>
@@ -264,7 +264,7 @@ const Cta = () => {
                     <li>
                         Design Engineer | EDA/CAD/ASIC Methodology Organization
                         <div className='text-gray-600 text-sm lg:text-[1rem] xl:text-lg'>
-                            Aug 1999 - Aug 2001 · 2 yrs 1 months Bangalore
+                            Bangalore · Aug 1999 - Aug 2001 · 2 yrs 1 months
                         </div>
                         <ol className='list-decimal' start="31">
                             <li className='ml-10 mb-5'>
